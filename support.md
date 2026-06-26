@@ -1,6 +1,6 @@
 # BanScan Support
 
-For help with BanScan, email: ryclendening@mgmail.com
+For help with BanScan, email: ryclendening@gmail.com
 
 BanScan screens product-label ingredients against a banned-substances database. It is a screening aid and should not be treated as an authoritative compliance or eligibility decision system.
 
@@ -13,4 +13,4 @@ BanScan screens product-label ingredients against a banned-substances database. 
 
 ## Privacy
 
-See our Privacy Policy: <privacy policy URL>
+See our Privacy Policy: https://ryclendening.github.io/banscan-legal/
